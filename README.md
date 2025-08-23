@@ -40,6 +40,7 @@
 
 📁 **Основные файлы:**
 
+- ['Ссылка на сам бот'](https://t.me/ForKAA_bot)
 - [`main.py`](https://github.com/Konvet/Vet-analytics-bot/blob/main/main.py) — 🚀 запуск бота
 - [`handlers.py`](https://github.com/Konvet/Vet-analytics-bot/blob/main/handlers.py) — 🧩 обработчики команд
 - [`keyboards.py`](https://github.com/Konvet/Vet-analytics-bot/blob/main/keyboards.py) — ⌨️ клавиатуры и кнопки
